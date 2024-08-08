@@ -61,7 +61,7 @@ body {
 </div>
 
 <div class="footer">
-  <p>Autistic Front is an organization seeking to achieve world peace through the spread of information relating to the current social order, organizing meetings of likeminded individuals who seek to make their way out of the prison created for us by the zionistic and freemasonic traitors of the human race. We do not care about your politics - we reject any ideology that conflicts with the master plan of God's providence. We hate the democratic party, the republican party, marvel movies, sports, pornography, usury, sodomy, seed oil, vaccines, and cops. We seek your cancellation.</p>
+  <p>Autistic Front is an organization seeking to achieve world peace through the spread of information relating to the current social order, organizing meetings of likeminded individuals who seek to make their way out of the prison created for us by the zionistic and freemasonic traitors of the human race. We do not care about your politics - we reject any ideology that conflicts with the master plan of God's providence. We hate the democratic party, the republican party, marvel movies, sports, pornography, usury, sodomy, seed oils, vaccines, normies and cops. We are incels, anarchists, fascists, internet trolls, punks, dumpster divers, religious extremists, homesteaders, vagrants, doomers, and artists. You can find us everywhere. We seek your cancellation.</p>
 </div>
 
 </body>
