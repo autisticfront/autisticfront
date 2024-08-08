@@ -4,8 +4,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
+  background-color: black;
   font-family: Arial, Helvetica, sans-serif;
-  font-colo: white;
+  font-color: white;
   width: 100%
 }
 
