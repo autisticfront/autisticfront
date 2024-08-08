@@ -38,7 +38,7 @@ body {
 
 /* Style the content */
 .content {
-  background-color: #ddd;
+  background-color: #304d52;
   padding: 10px;
   height: 200px; /* Should be removed. Only for demonstration */
 }
