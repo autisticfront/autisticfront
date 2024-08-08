@@ -1,6 +1,3 @@
-<html lang="en">
-<head>
-<title>Autistic Front</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -12,6 +9,7 @@
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
+  width: 100%
 }
 
 /* Style the top navigation bar */
@@ -60,27 +58,16 @@ body {
 </div>
 
 <div class="content">
-  <h2>Music for the disenfranchised youth</h2>
-  <p>Filler</p>
+  <h2>Autistic Front</h2>
+  <p>Music for the disenfranchised youth</p>
 </div>
 
 <div class="footer">
-  <p>More Filler</p>
+  <p>Autistic Front is an organization seeking to achieve world peace through the spread of information relating to the current social order, organizing meetings of likeminded individuals who seek to make their way out of the prison created for us by the zionistic and freemasonic traitors of the human race. We do not care about your politics - we reject any ideology that conflicts with the master plan of God's providence. We hate the democratic party, the republican party, marvel movies, sports, pornography, usury, sodomy, seed oil, vaccines, and cops. We seek your cancellation.</p>
 </div>
 
 </body>
 </html>
-
-<!--
-**autisticfront/autisticfront** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
