@@ -42,7 +42,7 @@ body {
 
 /* Style the footer */
 .footer {
-  background-color: #f1f1f1;
+  background-color: #233336;
 }
 </style>
 </head>
