@@ -50,7 +50,7 @@ body {
 <body>
 
 <div class="topnav">
-  <a href="#">Main</a>
+  <a href="#README">Main</a>
   <a href="#">Music</a>
   <a href="#">Merch</a>
   <a href="#">Forum (coming soon)</a>
