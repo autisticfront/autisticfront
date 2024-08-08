@@ -34,7 +34,6 @@ body {
 /* Change color on hover */
 .topnav a:hover {
   background-color: #ddd;
-  color: black;
 }
 
 /* Style the content */
