@@ -11,8 +11,8 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
-  margin: 0
-  width: 100vw
+  margin: 0;
+  width: 100vw;
 }
 
 /* Style the top navigation bar */
