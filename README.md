@@ -6,6 +6,7 @@
 * {
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
+  width: 100%
 }
 
 body {
