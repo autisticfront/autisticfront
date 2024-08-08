@@ -38,14 +38,11 @@ body {
 /* Style the content */
 .content {
   background-color: #304d52;
-  padding: 10px;
-  height: 200px; /* Should be removed. Only for demonstration */
 }
 
 /* Style the footer */
 .footer {
   background-color: #f1f1f1;
-  padding: 10px;
 }
 </style>
 </head>
